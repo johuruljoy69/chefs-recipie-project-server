@@ -1,7 +1,8 @@
 [
     {
-        "id": 1,
-        "picture": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=1380&t=st=1683003739~exp=1683004339~hmac=463c4d9accd4229ee822f663034b2b783399809495d7d6f5c83d8503948c1c7b",
+        "id": "1",
+        "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=1060&t=st=1683018848~exp=1683019448~hmac=d1a054678e9144941b3c6d19032cf6f202390badaaa2abfdfdb9a5a960c6c0d1",
+        "chef_id": "1",
         "name": "Alice Smith",
         "experience": 15,
         "recipes": 200,
@@ -10,8 +11,9 @@
         "description": "Alice Smith is known for her innovative and creative approach to cooking, using fresh, local ingredients to create unique and delicious dishes. She has won numerous awards for her culinary achievements and has been featured in many popular cooking shows and publications."
     },
     {
-        "id": 2,
-        "picture": "https://img.freepik.com/free-photo/mid-shot-chef-plating-meal_23-2148794089.jpg?w=1380&t=st=1683004017~exp=1683004617~hmac=c4541c710d13e1b0ea0dc99572c38835430848f5219e945c0b8113e93fe82b3b",
+        "id": "2",
+        "picture": "https://img.freepik.com/free-photo/satisfied-professional-male-chef-cook-white-uniform-cook-hat-standing-with-arms-crossed-looking-confident-green-background_141793-20656.jpg?t=st=1683005556~exp=1683006156~hmac=126501167af497aa490c19bf0b4b2788e0e071f530b558b60e544688421ed0bd",
+        "chef_id": "1",
         "name": "Bob Johnson",
         "experience": 20,
         "recipes": 300,
@@ -20,8 +22,9 @@
         "description": "Bob Johnson has worked in some of the finest kitchens around the world, honing his skills and developing a deep understanding of different cuisines and cooking techniques. He is known for his attention to detail and his commitment to using the highest quality ingredients in all of his dishes."
     },
     {
-        "id": 3,
-        "picture": "https://img.freepik.com/free-photo/portrait-elderly-chef-dressed-uniform-with-crossed-arms-against-dark-background_613910-17580.jpg?w=1380&t=st=1683003962~exp=1683004562~hmac=f98c2888d2494f985c8dff4a5e7b6e893419f2cecea4e0440a0c78d302e47d8a",
+        "id": "3",
+        "picture": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-with-closed-posture-looking-isolated-white-wall-with-copy-space_141793-101304.jpg?t=st=1683003789~exp=1683004389~hmac=9c7b91e281cba4cb916a32ff464a13a34b5e170e41a4f9d8e17b95f2fddc2ea1",
+        "chef_id": "1",
         "name": "Cathy Lee",
         "experience": 10,
         "recipes": 150,
@@ -30,8 +33,9 @@
         "description": "Cathy Lee's unique style of cooking draws on her Korean-American heritage and her love of travel, blending different cuisines and techniques to create exciting new dishes. She has gained a large following on social media and has been featured in several food magazines and websites."
     },
     {
-        "id": 4,
-        "picture": "https://img.freepik.com/free-photo/medium-shot-chef-with-pan-spatula_23-2148723241.jpg?w=996&t=st=1683004131~exp=1683004731~hmac=1eedf7bdc25f305efdb47ff733846ce6914c62b059d0286c97c7571c3cc4e7f1",
+        "id": "4",
+        "picture": "https://img.freepik.com/free-photo/confident-young-male-cook-wearing-chef-uniform-crossing-hands-isolated-white-wall-with-copy-space_141793-36399.jpg",
+        "chef_id": "1",
         "name": "David Brown",
         "experience": 25,
         "recipes": 400,
@@ -40,8 +44,9 @@
         "description": "David Brown has worked in some of the most prestigious kitchens around the world, earning accolades and awards for his innovative and exquisite cuisine. He is known for his dedication to quality and his unwavering commitment to excellence in all aspects of his work."
     },
     {
-        "id": 5,
-        "picture": "https://img.freepik.com/free-photo/man-cook-holds-pan-with-vegetables-flying-air_613910-771.jpg?w=1380&t=st=1683004066~exp=1683004666~hmac=04f0e764c678a9c333cae7e46b4a878c2294602cb5b2794d5d46848dfa865c6e",
+        "id": "5",
+        "picture": "https://img.freepik.com/free-photo/pleased-young-handsome-cook-chef-uniform-standing-with-closed-posture-isolated-white-space_141793-44710.jpg?t=st=1683019079~exp=1683019679~hmac=24a030641c7827767aede7aefa6be20fc120bef72c35a29749a3cb2f491560e0",
+        "chef_id": "1",
         "name": "Emily Jones",
         "experience": 5,
         "recipes": 100,
@@ -50,8 +55,9 @@
         "description": "Emily Jones's approach to cooking is all about using fresh, seasonal ingredients and minimizing waste. She has worked in several farm-to-table restaurants and is committed to supporting local farmers and producers. She has gained a following on social media for her innovative recipes and her commitment to sustainability."
     },
     {
-        "id": 6,
-        "picture": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-with-closed-posture-showing-empty-hand-isolated-orange-wall-with-copy-space_141793-101297.jpg?w=1380&t=st=1683003829~exp=1683004429~hmac=cb70d70caeb77d979483bfbaa5461e9930bd867b30ea8983f86ca9d544966ef1",
+        "id": "6",
+        "picture": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-with-arms-crossed-smiling-confident-standing-white-background_141793-21114.jpg?t=st=1683019086~exp=1683019686~hmac=4dede678e0b74c98eb489627c509d4361dfb7a41ee86c5cd41de16b2739612aa",
+        "chef_id": "1",
         "name": "Frank Rodriguez",
         "experience": 12,
         "recipes": 180,
