@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "picture": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=1380&t=st=1683003739~exp=1683004339~hmac=463c4d9accd4229ee822f663034b2b783399809495d7d6f5c83d8503948c1c7b",
+        "name": "Alice Smith",
+        "experience": 15,
+        "recipes": 200,
+        "likes": 5000,
+        "bio": "Alice Smith is a renowned chef with over 15 years of experience in the culinary arts.",
+        "description": "Alice Smith is known for her innovative and creative approach to cooking, using fresh, local ingredients to create unique and delicious dishes. She has won numerous awards for her culinary achievements and has been featured in many popular cooking shows and publications."
+    },
+    {
+        "id": 2,
+        "picture": "https://img.freepik.com/free-photo/mid-shot-chef-plating-meal_23-2148794089.jpg?w=1380&t=st=1683004017~exp=1683004617~hmac=c4541c710d13e1b0ea0dc99572c38835430848f5219e945c0b8113e93fe82b3b",
+        "name": "Bob Johnson",
+        "experience": 20,
+        "recipes": 300,
+        "likes": 8000,
+        "bio": "Bob Johnson is a veteran chef with over 20 years of experience in the restaurant industry.",
+        "description": "Bob Johnson has worked in some of the finest kitchens around the world, honing his skills and developing a deep understanding of different cuisines and cooking techniques. He is known for his attention to detail and his commitment to using the highest quality ingredients in all of his dishes."
+    },
+    {
+        "id": 3,
+        "picture": "https://img.freepik.com/free-photo/portrait-elderly-chef-dressed-uniform-with-crossed-arms-against-dark-background_613910-17580.jpg?w=1380&t=st=1683003962~exp=1683004562~hmac=f98c2888d2494f985c8dff4a5e7b6e893419f2cecea4e0440a0c78d302e47d8a",
+        "name": "Cathy Lee",
+        "experience": 10,
+        "recipes": 150,
+        "likes": 3000,
+        "bio": "Cathy Lee is a rising star in the culinary world, with a passion for fusion cooking and bold flavors.",
+        "description": "Cathy Lee's unique style of cooking draws on her Korean-American heritage and her love of travel, blending different cuisines and techniques to create exciting new dishes. She has gained a large following on social media and has been featured in several food magazines and websites."
+    },
+    {
+        "id": 4,
+        "picture": "https://img.freepik.com/free-photo/medium-shot-chef-with-pan-spatula_23-2148723241.jpg?w=996&t=st=1683004131~exp=1683004731~hmac=1eedf7bdc25f305efdb47ff733846ce6914c62b059d0286c97c7571c3cc4e7f1",
+        "name": "David Brown",
+        "experience": 25,
+        "recipes": 400,
+        "likes": 10000,
+        "bio": "David Brown is a master chef with over 25 years of experience in the culinary arts.",
+        "description": "David Brown has worked in some of the most prestigious kitchens around the world, earning accolades and awards for his innovative and exquisite cuisine. He is known for his dedication to quality and his unwavering commitment to excellence in all aspects of his work."
+    },
+    {
+        "id": 5,
+        "picture": "https://img.freepik.com/free-photo/man-cook-holds-pan-with-vegetables-flying-air_613910-771.jpg?w=1380&t=st=1683004066~exp=1683004666~hmac=04f0e764c678a9c333cae7e46b4a878c2294602cb5b2794d5d46848dfa865c6e",
+        "name": "Emily Jones",
+        "experience": 5,
+        "recipes": 100,
+        "likes": 2000,
+        "bio": "Emily Jones is a young and talented chef, with a passion for creating healthy and sustainable dishes.",
+        "description": "Emily Jones's approach to cooking is all about using fresh, seasonal ingredients and minimizing waste. She has worked in several farm-to-table restaurants and is committed to supporting local farmers and producers. She has gained a following on social media for her innovative recipes and her commitment to sustainability."
+    },
+    {
+        "id": 6,
+        "picture": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-with-closed-posture-showing-empty-hand-isolated-orange-wall-with-copy-space_141793-101297.jpg?w=1380&t=st=1683003829~exp=1683004429~hmac=cb70d70caeb77d979483bfbaa5461e9930bd867b30ea8983f86ca9d544966ef1",
+        "name": "Frank Rodriguez",
+        "experience": 12,
+        "recipes": 180,
+        "likes": 4000,
+        "bio": "Frank Rodriguez is a skilled chef with experience in both traditional and modern cooking techniques.",
+        "description": "Frank Rodriguez's culinary career has taken him from traditional Italian restaurants to modern fusion kitchens, where he has developed a unique style that blends classic techniques with contemporary flavors. He is known for his attention to detail and his ability to create dishes that are both beautiful and delicious."
+    }
+]
