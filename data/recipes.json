@@ -1,0 +1,170 @@
+[
+    {   "recipe_id": "1",
+        "recipeName": "Spaghetti and Meatballs",
+        "description": "Spaghetti and meatballs is an Italian-American dish consisting of spaghetti, tomato sauce and meatballs. Originally inspired by similar dishes from southern Italy, the modern version of spaghetti and meatballs was developed by Italian immigrants in the USA.",
+        "img_url": "https://i.ibb.co/3c00b3R/Spaghetti-and-Meatballs.jpg",
+        "ingredients": [
+            "1 pound ground beef",
+            "1/2 cup breadcrumbs",
+            "1/4 cup milk",
+            "1/4 cup grated Parmesan cheese",
+            "1 egg",
+            "1 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "1 pound spaghetti",
+            "1 jar spaghetti sauce",
+            "1/4 cup chopped fresh parsley"
+        ],
+        "cookingMethod": "Preheat the oven to 350 degrees F. In a large bowl, mix together the ground beef, breadcrumbs, milk, Parmesan cheese, egg, salt, and pepper. Roll the mixture into meatballs and place them on a baking sheet. Bake for 20-25 minutes, or until cooked through. Cook the spaghetti according to the package directions. Heat the spaghetti sauce in a large saucepan over medium heat. Add the meatballs and parsley to the sauce and stir to coat. Serve the sauce and meatballs over the spaghetti.",
+        "rating": 4.5
+    },
+    {
+        "recipe_id": "2",
+        "recipeName": "Chicken Stir-Fry",
+        "description": "Chicken stir-fry is a speedy dinner that’s jam-packed with flavor! Just grab a large pan and watch how juicy chicken, loads of veggies, and a savory-sweet sauce quickly come together in this colorful, healthy meal.",
+        "img_url": "https://i.ibb.co/3BJgLK3/Chicken-Stir-Fry.jpg ",
+        "ingredients": [
+            "1 pound boneless, skinless chicken breasts, sliced into thin strips",
+            "1 tablespoon cornstarch",
+            "2 tablespoons soy sauce",
+            "2 tablespoons vegetable oil",
+            "1 onion, chopped",
+            "1 red bell pepper, chopped",
+            "1 cup sliced mushrooms",
+            "2 garlic cloves, minced",
+            "1 tablespoon grated ginger",
+            "1/4 cup chopped scallions"
+        ],
+        "cookingMethod": "In a small bowl, whisk together the cornstarch and soy sauce. In a large skillet or wok, heat the oil over high heat. Add the chicken and cook until browned, about 3-4 minutes. Add the onion, bell pepper, mushrooms, garlic, and ginger to the skillet and cook for another 3-4 minutes. Add the soy sauce mixture to the skillet and stir to coat the chicken and vegetables. Cook for an additional 2-3 minutes, or until the sauce thickens. Serve the stir-fry over rice and garnish with scallions.",
+        "rating": 4
+    },
+    {
+        "recipe_id": "3",
+        "recipeName": "Beef Stew",
+        "description": "This classic stick-to-your-ribs stew is the ideal project for a chilly weekend. Beef, onion, carrots, potatoes and red wine come together in cozy harmony. If you are feeding a crowd, good news: It doubles (or triples) beautifully.",
+        "img_url": "https://i.ibb.co/PN7VB0p/Beef-Stew.jpg ",
+        "ingredients": [
+            "2 pounds beef chuck, cut into 1-inch cubes",
+            "2 tablespoons vegetable oil",
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "2 cups beef broth",
+            "1 can diced tomatoes",
+            "1 cup chopped carrots",
+            "1 cup chopped celery",
+            "1/2 cup frozen peas",
+            "1 tablespoon chopped fresh thyme",
+            "1 bay leaf"
+        ],
+        "cookingMethod": "In a large pot or Dutch oven, heat the oil over medium-high heat. Add the beef and cook until browned on all sides, about 5-7 minutes. Add the onion and garlic to the pot and cook for another 2-3 minutes. Pour in the beef broth and diced tomatoes, and bring to a boil. Reduce the heat to low and add the carrots, celery, peas, thyme, and bay leaf. Cover the pot and simmer for 1-2 hours, or until the beef is tender and the vegetables are cooked through. Remove the bay leaf and serve the Beef Stew with scallions.",
+        "rating": 4
+    },
+    {
+        "recipe_id": "4",
+        "recipeName": "Grilled Salmon with Lemon and Herbs",
+        "description": "Grilled Lemon Garlic Salmon has such a bright, fresh flavor and its absolutely perfect for summer! Because hello grilling season. It’s easy to make, and only requires a brief marinating and quick grill time.",
+        "img_url": "https://i.ibb.co/bQnTTqH/Grilled-Salmon-with-Lemon-and-Herbs.jpg",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "1/4 cup chopped fresh parsley",
+            "1/4 cup chopped fresh dill",
+            "1/4 cup olive oil",
+            "Salt and pepper to taste"
+        ],
+        "cookingMethod": "Preheat grill to medium-high heat. In a small bowl, mix together the olive oil, lemon juice, parsley, dill, salt, and pepper. Brush the salmon fillets with the mixture. Grill the salmon for 4-5 minutes on each side, or until cooked through. Serve with additional lemon wedges.",
+        "rating": 4.5
+    },
+    {
+        "recipe_id": "5",
+        "recipeName": "Vegetable Fried Rice",
+        "description": "Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat. It is often eaten by itself or as an accompaniment to another dish",
+        "img_url": "https://i.ibb.co/PDdN2GR/Vegetable-Fried-Rice.png",
+        "ingredients": [
+            "2 cups cooked rice",
+            "1/2 cup diced carrots",
+            "1/2 cup diced bell pepper",
+            "1/2 cup diced onion",
+            "1/2 cup frozen peas",
+            "2 cloves garlic, minced",
+            "2 tablespoons soy sauce",
+            "1 tablespoon sesame oil",
+            "1/4 teaspoon black pepper",
+            "2 eggs, beaten",
+            "2 tablespoons vegetable oil"
+        ],
+        "cookingMethod": "Heat the vegetable oil in a large skillet over medium-high heat. Add the carrots, bell pepper, onion, peas, and garlic. Cook for 5-7 minutes, or until the vegetables are tender. Move the vegetables to one side of the skillet and add the beaten eggs to the other side. Scramble the eggs until cooked through, then mix with the vegetables. Add the cooked rice to the skillet and stir in the soy sauce, sesame oil, and black pepper. Cook for 2-3 minutes, or until the rice is heated through.",
+        "rating": 4.0
+    },
+    {
+        "recipe_id": "6",
+        "recipeName": "Classic Margherita Pizza",
+        "description": "The ultimate pizza pie, in our opinion? The pristine and simple pizza Margherita. This iconic Italian pizza is truly something special: stretchy mozzarella cheese, tangy tomatoes, and peppery basil all piled on a chewy, charred crust.",
+        "img_url": "https://i.ibb.co/NVmS2NX/Classic-Margherita-Pizza.jpg",
+        "ingredients": [
+            "1 pound pizza dough",
+            "1/2 cup tomato sauce",
+            "8 oz fresh mozzarella cheese, sliced",
+            "1/4 cup fresh basil leaves",
+            "2 cloves garlic, minced",
+            "1 tablespoon olive oil",
+            "Salt and pepper to taste"
+        ],
+        "cookingMethod": "Preheat oven to 450°F. Roll out the pizza dough into a 12-inch circle. Place the dough on a pizza pan or baking sheet. Spread the tomato sauce evenly over the dough, leaving a 1/2-inch border around the edge. Top with the sliced mozzarella cheese. Sprinkle the minced garlic over the cheese. Drizzle with olive oil and sprinkle with salt and pepper. Bake for 10-12 minutes, or until the crust is golden brown and the cheese is melted. Remove from oven and sprinkle with fresh basil leaves before serving.",
+        "rating": 4.7
+    },
+    {
+        "recipe_id": "7",
+        "recipeName": "Spaghetti Bolognese",
+        "description": "Everyone needs a great everyday Spaghetti Bolognese recipe, and this is mine! The Bolognese Sauce is rich, thick and has beautiful depth of flavour. It perfect for a quick midweek meal but even better if you can simmer it for a couple of hours!",
+        "img_url": "https://i.ibb.co/tC42S2S/Spaghetti-Bolognese.jpg ",
+        "ingredients": [
+            "500g ground beef",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "1 can crushed tomatoes",
+            "1 tbsp tomato paste",
+            "1 tsp dried oregano",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "500g spaghetti"
+        ],
+        "cookingMethod": "1. Heat a large pot of salted water and cook spaghetti according to package directions. \n2. Meanwhile, brown ground beef in a large pan over medium heat. \n3. Add onion and garlic and sauté for 2-3 minutes. \n4. Add crushed tomatoes, tomato paste, oregano, salt, and black pepper. \n5. Simmer for 10-15 minutes. \n6. Drain spaghetti and toss with sauce. \n7. Serve hot.",
+        "rating": 4.5
+    },
+
+    {
+        "recipe_id": "8",
+        "recipeName": "Caesar Salad",
+        "description": "A Caesar salad is a green salad of romaine lettuce and croutons dressed with lemon juice, olive oil, egg, Worcestershire sauce, anchovies, garlic, Dijon mustard, Parmesan cheese, and black pepper. In its original form, this salad was prepared and served table side",
+        "img_url": "https://i.ibb.co/wgPGTsX/Caesar-Salad.jpg",
+        "ingredients": [
+            "1 head romaine lettuce",
+            "1/4 cup grated Parmesan cheese",
+            "1/4 cup croutons",
+            "1/4 cup Caesar dressing",
+            "1/2 lemon, juiced"
+        ],
+        "cookingMethod": "1. Wash and chop the lettuce into bite-sized pieces. \n2. Add Parmesan cheese and croutons. \n3. Drizzle with Caesar dressing and lemon juice. \n4. Toss well. \n5. Serve chilled.",
+        "rating": 4.1
+    },
+    {
+        "recipe_id": "9",
+        "recipeName": "Beef Stir Fry",
+        "description": "Stir fry for dinner? There’s something so delicious about meat and veggies all tossed together in an Asian-inspired sauce. And it do love just about every stir fry I’ve tried, they’re not all created equal. This one is one of the best!",
+        "img_url": "https://i.ibb.co/hdgGkch/Beef-Stir-Fry.jpg",
+        "ingredients": [
+            "500g beef sirloin, sliced",
+            "1 red bell pepper, sliced",
+            "1 green bell pepper, sliced",
+            "1 onion, sliced",
+            "2 cloves garlic, minced",
+            "2 tbsp soy sauce",
+            "1 tbsp cornstarch",
+            "1 tbsp vegetable oil",
+            "1/4 tsp black pepper"
+        ],
+        "cookingMethod": "1. In a small bowl, mix together soy sauce, cornstarch, and black pepper. \n2. Heat vegetable oil in a large pan over medium heat. \n3. Add garlic and sauté for 1-2 minutes. \n4. Add beef and brown on all sides. \n5. Serve Beef Stir Fry.",
+        "rating": 4.5
+    }
+]

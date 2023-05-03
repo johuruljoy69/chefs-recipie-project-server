@@ -22,17 +22,23 @@ app.get('/chefs', (req, res) =>{
 app.get('/chefs/:id', (req, res) =>{
     const id = req.params.id;
     console.log(id);
-    const selectedChef = chefs.find(chef => chef.id === id)
+    const selectedChef = chefs?.find(chef => chef.id === id)
     res.send(selectedChef);
 })
 
-app.get('/all-chefs/:id', (req, res) =>{
-    const id = parseInt(req.params.id)
-    if(id === 0){
-        res.send(chefs)
-    }
-    else{
-        const allChefs = chefs.filter(chef => parseInt(chef.chef_id) === id)
-        res.send(allChefs); 
-    }
+const recipes = require('./data/recipes.json')
+
+app.get('/recipes', (req, res) =>{
+    res.send(recipes);
 })
+
+// app.get('/all-chefs/:id', (req, res) =>{
+//     const id = parseInt(req.params.id)
+//     if(id === 0){
+//         res.send(chefs)
+//     }
+//     else{
+//         const allChefs = chefs.filter(chef => parseInt(chef.chef_id) === id)
+//         res.send(allChefs); 
+//     }
+// })
