@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "picture": "https://i.ibb.co/K5Zcw2r/Appetizers.jpg",
+        "name": "Appetizers"
+    },
+    {
+        "id": "2",
+        "picture": "https://i.ibb.co/mzSKX7T/Beef.jpg",
+        "name": "Beef"
+    },
+    {
+        "id": "3",
+        "picture": "https://i.ibb.co/n8y0vVn/Chicken.jpg",
+        "name": "Chicken"
+    },
+    {
+        "id": "4",
+        "picture": "https://i.ibb.co/WcDKs1k/Vegetarian.jpg",
+        "name": "Vegetarian"
+    },
+    {
+        "id": "5",
+        "picture": "https://i.ibb.co/JqDBF5f/Desserts.jpg",
+        "name": "Desserts"
+    }
+]
