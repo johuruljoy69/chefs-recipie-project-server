@@ -9,9 +9,7 @@ app.get('/', (req, res) =>{
     res.send('JS FoodHub is running')
 })
 
-app.listen(port, () =>{
-    console.log(`JS FoodHub API is running on port : ${port}`);
-})
+
 
 const chefs = require('./data/chefData.json')
 
@@ -32,6 +30,11 @@ app.get('/recipes', (req, res) =>{
     res.send(recipes);
 })
 
+const recipeCategory = require('./data/recipeCategory.json')
+app.get('/recipe-category', (req, res) =>{
+    res.send(recipeCategory);
+})
+
 // app.get('/all-chefs/:id', (req, res) =>{
 //     const id = parseInt(req.params.id)
 //     if(id === 0){
@@ -42,3 +45,7 @@ app.get('/recipes', (req, res) =>{
 //         res.send(allChefs); 
 //     }
 // })
+
+app.listen(port, () =>{
+    console.log(`JS FoodHub API is running on port : ${port}`);
+})
