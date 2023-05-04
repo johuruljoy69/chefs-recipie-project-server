@@ -1,0 +1,25 @@
+[debug] [2023-05-04T12:11:24.890Z] ----------------------------------------------------------------------
+[debug] [2023-05-04T12:11:24.892Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\USER\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-05-04T12:11:24.893Z] CLI Version:   11.28.0
+[debug] [2023-05-04T12:11:24.893Z] Platform:      win32
+[debug] [2023-05-04T12:11:24.893Z] Node Version:  v18.12.1
+[debug] [2023-05-04T12:11:24.897Z] Time:          Thu May 04 2023 18:11:24 GMT+0600 (Bangladesh Standard Time)
+[debug] [2023-05-04T12:11:24.897Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-05-04T12:11:24.905Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-05-04T12:11:24.905Z] > authorizing via signed-in user (joy.sd69@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Web-Repo-Project\React-Assignment- 10-11-12\b7a10-chef-recipe-hunter-server-side-johuruljoy69
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+

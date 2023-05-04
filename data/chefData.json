@@ -1,68 +1,68 @@
 [
     {
         "id": "1",
-        "picture": "https://img.freepik.com/free-photo/chef-cooking-fresh-vegetable-salad-his-kitchen_155003-501.jpg?w=1380&t=st=1683130575~exp=1683131175~hmac=bf9c80b2ecefc83e0e3d24b6c10a18f067bbf870f5a767ecdaa42cb1cf85e488",
+        "picture": "https://i.ibb.co/FYmH8xt/Thomas-Keller.jpg",
         "chef_id": "1",
-        "name": "Alice Smith",
+        "name": "Thomas Keller ",
         "experience": 15,
         "recipes": 200,
         "likes": 5000,
-        "bio": "Alice Smith is a renowned chef with over 15 years of experience in the culinary arts.",
-        "description": "Alice Smith is known for her innovative and creative approach to cooking, using fresh, local ingredients to create unique and delicious dishes. She has won numerous awards for her culinary achievements and has been featured in many popular cooking shows and publications."
+        "bio": "Thomas Keller  is a renowned chef with over 15 years of experience in the culinary arts.",
+        "description": "Thomas Keller is known for her innovative and creative approach to cooking, using fresh, local ingredients to create unique and delicious dishes. She has won numerous awards for her culinary achievements and has been featured in many popular cooking shows and publications."
     },
     {
         "id": "2",
-        "picture": "https://img.freepik.com/free-photo/satisfied-professional-male-chef-cook-white-uniform-cook-hat-standing-with-arms-crossed-looking-confident-green-background_141793-20656.jpg?t=st=1683005556~exp=1683006156~hmac=126501167af497aa490c19bf0b4b2788e0e071f530b558b60e544688421ed0bd",
+        "picture": "https://i.ibb.co/f13ZGnW/Dominique-Crenn.jpg",
         "chef_id": "1",
-        "name": "Bob Johnson",
+        "name": "Dominique Crenn",
         "experience": 20,
         "recipes": 300,
         "likes": 8000,
-        "bio": "Bob Johnson is a veteran chef with over 20 years of experience in the restaurant industry.",
-        "description": "Bob Johnson has worked in some of the finest kitchens around the world, honing his skills and developing a deep understanding of different cuisines and cooking techniques. He is known for his attention to detail and his commitment to using the highest quality ingredients in all of his dishes."
+        "bio": "Dominique Crenn is a veteran chef with over 20 years of experience in the restaurant industry.",
+        "description": "Dominique Crenn has worked in some of the finest kitchens around the world, honing his skills and developing a deep understanding of different cuisines and cooking techniques. He is known for his attention to detail and his commitment to using the highest quality ingredients in all of his dishes."
     },
     {
         "id": "3",
-        "picture": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-with-closed-posture-looking-isolated-white-wall-with-copy-space_141793-101304.jpg?t=st=1683003789~exp=1683004389~hmac=9c7b91e281cba4cb916a32ff464a13a34b5e170e41a4f9d8e17b95f2fddc2ea1",
+        "picture": "https://i.ibb.co/m9HkVgc/Catherine-Ann-Cora.jpg",
         "chef_id": "1",
-        "name": "Cathy Lee",
+        "name": "Catherine Cora",
         "experience": 10,
         "recipes": 150,
         "likes": 3000,
-        "bio": "Cathy Lee is a rising star in the culinary world, with a passion for fusion cooking and bold flavors.",
-        "description": "Cathy Lee's unique style of cooking draws on her Korean-American heritage and her love of travel, blending different cuisines and techniques to create exciting new dishes. She has gained a large following on social media and has been featured in several food magazines and websites."
+        "bio": "Catherine Cora is a rising star in the culinary world, with a passion for fusion cooking and bold flavors.",
+        "description": "Catherine Cora's unique style of cooking draws on her Korean-American heritage and her love of travel, blending different cuisines and techniques to create exciting new dishes. She has gained a large following on social media and has been featured in several food magazines and websites."
     },
     {
         "id": "4",
-        "picture": "https://img.freepik.com/free-photo/confident-young-male-cook-wearing-chef-uniform-crossing-hands-isolated-white-wall-with-copy-space_141793-36399.jpg",
+        "picture": "https://i.ibb.co/SVGd09H/Gordon-Ramsay.jpg",
         "chef_id": "1",
-        "name": "David Brown",
+        "name": "Gordon Ramsay",
         "experience": 25,
         "recipes": 400,
         "likes": 9000,
-        "bio": "David Brown is a master chef with over 25 years of experience in the culinary arts.",
-        "description": "David Brown has worked in some of the most prestigious kitchens around the world, earning accolades and awards for his innovative and exquisite cuisine. He is known for his dedication to quality and his unwavering commitment to excellence in all aspects of his work."
+        "bio": "Gordon Ramsay is a master chef with over 25 years of experience in the culinary arts.",
+        "description": "Gordon Ramsay has worked in some of the most prestigious kitchens around the world, earning accolades and awards for his innovative and exquisite cuisine. He is known for his dedication to quality and his unwavering commitment to excellence in all aspects of his work."
     },
     {
         "id": "5",
-        "picture": "https://img.freepik.com/free-photo/pleased-young-handsome-cook-chef-uniform-standing-with-closed-posture-isolated-white-space_141793-44710.jpg?t=st=1683019079~exp=1683019679~hmac=24a030641c7827767aede7aefa6be20fc120bef72c35a29749a3cb2f491560e0",
+        "picture": "https://i.ibb.co/BsFLdDr/Curtis-Stone.jpg",
         "chef_id": "1",
-        "name": "Emily Jones",
+        "name": "Curtis Stone",
         "experience": 5,
         "recipes": 100,
         "likes": 2000,
-        "bio": "Emily Jones is a young and talented chef, with a passion for creating healthy and sustainable dishes.",
-        "description": "Emily Jones's approach to cooking is all about using fresh, seasonal ingredients and minimizing waste. She has worked in several farm-to-table restaurants and is committed to supporting local farmers and producers. She has gained a following on social media for her innovative recipes and her commitment to sustainability."
+        "bio": "Curtis Stone is a young and talented chef, with a passion for creating healthy and sustainable dishes.",
+        "description": "Curtis Stone's approach to cooking is all about using fresh, seasonal ingredients and minimizing waste. She has worked in several farm-to-table restaurants and is committed to supporting local farmers and producers. She has gained a following on social media for her innovative recipes and her commitment to sustainability."
     },
     {
         "id": "6",
-        "picture": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-with-arms-crossed-smiling-confident-standing-white-background_141793-21114.jpg?t=st=1683019086~exp=1683019686~hmac=4dede678e0b74c98eb489627c509d4361dfb7a41ee86c5cd41de16b2739612aa",
+        "picture": "https://i.ibb.co/x6v3KM7/Wolfgang-Puck.jpg",
         "chef_id": "1",
-        "name": "Frank Rodriguez",
+        "name": "Wolfgang Puck",
         "experience": 12,
         "recipes": 180,
         "likes": 4000,
-        "bio": "Frank Rodriguez is a skilled chef with experience in both traditional and modern cooking techniques.",
-        "description": "Frank Rodriguez's culinary career has taken him from traditional Italian restaurants to modern fusion kitchens, where he has developed a unique style that blends classic techniques with contemporary flavors. He is known for his attention to detail and his ability to create dishes that are both beautiful and delicious."
+        "bio": "Wolfgang Puck is a skilled chef with experience in both traditional and modern cooking techniques.",
+        "description": "Wolfgang Puck's culinary career has taken him from traditional Italian restaurants to modern fusion kitchens, where he has developed a unique style that blends classic techniques with contemporary flavors. He is known for his attention to detail and his ability to create dishes that are both beautiful and delicious."
     }
 ]
