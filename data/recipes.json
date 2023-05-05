@@ -3,6 +3,7 @@
         "recipeName": "Spaghetti and Meatballs",
         "description": "Spaghetti and meatballs is an Italian-American dish consisting of spaghetti, tomato sauce and meatballs. Originally inspired by similar dishes from southern Italy, the modern version of spaghetti and meatballs was developed by Italian immigrants in the USA.",
         "img_url": "https://i.ibb.co/m8Btp4Y/Spaghetti-and-Meatballs.png",
+        "cookingTime": 25,
         "ingredients": [
             "1 pound ground beef",
             "1/2 cup breadcrumbs",
@@ -23,6 +24,7 @@
         "recipeName": "Chicken Stir-Fry",
         "description": "Chicken stir-fry is a speedy dinner that’s jam-packed with flavor! Just grab a large pan and watch how juicy chicken, loads of veggies, and a savory-sweet sauce quickly come together in this colorful, healthy meal.",
         "img_url": "https://i.ibb.co/KL73fSm/Chicken-Stir-Fry.png",
+        "cookingTime": 30,
         "ingredients": [
             "1 pound boneless, skinless chicken breasts, sliced into thin strips",
             "1 tablespoon cornstarch",
@@ -43,6 +45,7 @@
         "recipeName": "Beef Stew",
         "description": "This classic stick-to-your-ribs stew is the ideal project for a chilly weekend. Beef, onion, carrots, potatoes and red wine come together in cozy harmony. If you are feeding a crowd, good news: It doubles (or triples) beautifully.",
         "img_url": "https://i.ibb.co/tc8WTKY/Beef-Stew.png",
+        "cookingTime": 35,
         "ingredients": [
             "2 pounds beef chuck, cut into 1-inch cubes",
             "2 tablespoons vegetable oil",
@@ -64,6 +67,7 @@
         "recipeName": "Grilled Salmon with Lemon and Herbs",
         "description": "Grilled Lemon Garlic Salmon has such a bright, fresh flavor and its absolutely perfect for summer! Because hello grilling season. It’s easy to make, and only requires a brief marinating and quick grill time.",
         "img_url": "https://i.ibb.co/jrXPs8J/Grilled-Salmon-with-Lemon-and-Herbs.png",
+        "cookingTime": 40,
         "ingredients": [
             "4 salmon fillets",
             "2 lemons",
@@ -80,6 +84,7 @@
         "recipeName": "Vegetable Fried Rice",
         "description": "Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat. It is often eaten by itself or as an accompaniment to another dish",
         "img_url": "https://i.ibb.co/Cvs9jzR/Vegetable-Fried-Rice.png",
+        "cookingTime": 25,
         "ingredients": [
             "2 cups cooked rice",
             "1/2 cup diced carrots",
@@ -101,6 +106,7 @@
         "recipeName": "Classic Margherita Pizza",
         "description": "The ultimate pizza pie, in our opinion? The pristine and simple pizza Margherita. This iconic Italian pizza is truly something special: stretchy mozzarella cheese, tangy tomatoes, and peppery basil all piled on a chewy, charred crust.",
         "img_url": "https://i.ibb.co/dGW2tDT/Classic-Margherita-Pizza.png",
+        "cookingTime": 30,
         "ingredients": [
             "1 pound pizza dough",
             "1/2 cup tomato sauce",
@@ -118,6 +124,7 @@
         "recipeName": "Spaghetti Bolognese",
         "description": "Everyone needs a great everyday Spaghetti Bolognese recipe, and this is mine! The Bolognese Sauce is rich, thick and has beautiful depth of flavour. It perfect for a quick midweek meal but even better if you can simmer it for a couple of hours!",
         "img_url": "https://i.ibb.co/xG4RPDm/Spaghetti-Bolognese.png ",
+        "cookingTime": 25,
         "ingredients": [
             "500g ground beef",
             "1 onion, chopped",
@@ -138,6 +145,7 @@
         "recipeName": "Caesar Salad",
         "description": "A Caesar salad is a green salad of romaine lettuce and croutons dressed with lemon juice, olive oil, egg, Worcestershire sauce, anchovies, garlic, Dijon mustard, Parmesan cheese, and black pepper. In its original form, this salad was prepared and served table side",
         "img_url": "https://i.ibb.co/NCxbjnH/Caesar-Salad.png",
+        "cookingTime": 20,
         "ingredients": [
             "1 head romaine lettuce",
             "1/4 cup grated Parmesan cheese",
@@ -153,6 +161,7 @@
         "recipeName": "Beef Stir Fry",
         "description": "Stir fry for dinner? There’s something so delicious about meat and veggies all tossed together in an Asian-inspired sauce. And it do love just about every stir fry I’ve tried, they’re not all created equal. This one is one of the best!",
         "img_url": "https://i.ibb.co/Cs1BHm6/Beef-Stir-Fry.png",
+        "cookingTime": 35,
         "ingredients": [
             "500g beef sirloin, sliced",
             "1 red bell pepper, sliced",

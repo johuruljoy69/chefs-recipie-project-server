@@ -6,7 +6,7 @@
         "name": "Thomas Keller ",
         "experience": 15,
         "recipes": 200,
-        "likes": 5000,
+        "likes": 9000,
         "bio": "Thomas Keller  is a renowned chef with over 15 years of experience in the culinary arts.",
         "description": "Thomas Keller is known for her innovative and creative approach to cooking, using fresh, local ingredients to create unique and delicious dishes. She has won numerous awards for her culinary achievements and has been featured in many popular cooking shows and publications."
     },
@@ -15,9 +15,9 @@
         "picture": "https://i.ibb.co/f13ZGnW/Dominique-Crenn.jpg",
         "chef_id": "1",
         "name": "Dominique Crenn",
-        "experience": 20,
+        "experience": 10,
         "recipes": 300,
-        "likes": 8000,
+        "likes": 5000,
         "bio": "Dominique Crenn is a veteran chef with over 20 years of experience in the restaurant industry.",
         "description": "Dominique Crenn has worked in some of the finest kitchens around the world, honing his skills and developing a deep understanding of different cuisines and cooking techniques. He is known for his attention to detail and his commitment to using the highest quality ingredients in all of his dishes."
     },
@@ -28,7 +28,7 @@
         "name": "Catherine Cora",
         "experience": 10,
         "recipes": 150,
-        "likes": 3000,
+        "likes": 7000,
         "bio": "Catherine Cora is a rising star in the culinary world, with a passion for fusion cooking and bold flavors.",
         "description": "Catherine Cora's unique style of cooking draws on her Korean-American heritage and her love of travel, blending different cuisines and techniques to create exciting new dishes. She has gained a large following on social media and has been featured in several food magazines and websites."
     },
@@ -37,9 +37,9 @@
         "picture": "https://i.ibb.co/SVGd09H/Gordon-Ramsay.jpg",
         "chef_id": "1",
         "name": "Gordon Ramsay",
-        "experience": 25,
+        "experience": 12,
         "recipes": 400,
-        "likes": 9000,
+        "likes": 6000,
         "bio": "Gordon Ramsay is a master chef with over 25 years of experience in the culinary arts.",
         "description": "Gordon Ramsay has worked in some of the most prestigious kitchens around the world, earning accolades and awards for his innovative and exquisite cuisine. He is known for his dedication to quality and his unwavering commitment to excellence in all aspects of his work."
     },
@@ -48,9 +48,9 @@
         "picture": "https://i.ibb.co/BsFLdDr/Curtis-Stone.jpg",
         "chef_id": "1",
         "name": "Curtis Stone",
-        "experience": 5,
+        "experience": 9,
         "recipes": 100,
-        "likes": 2000,
+        "likes": 3000,
         "bio": "Curtis Stone is a young and talented chef, with a passion for creating healthy and sustainable dishes.",
         "description": "Curtis Stone's approach to cooking is all about using fresh, seasonal ingredients and minimizing waste. She has worked in several farm-to-table restaurants and is committed to supporting local farmers and producers. She has gained a following on social media for her innovative recipes and her commitment to sustainability."
     },
@@ -59,9 +59,9 @@
         "picture": "https://i.ibb.co/x6v3KM7/Wolfgang-Puck.jpg",
         "chef_id": "1",
         "name": "Wolfgang Puck",
-        "experience": 12,
+        "experience": 15,
         "recipes": 180,
-        "likes": 4000,
+        "likes": 9000,
         "bio": "Wolfgang Puck is a skilled chef with experience in both traditional and modern cooking techniques.",
         "description": "Wolfgang Puck's culinary career has taken him from traditional Italian restaurants to modern fusion kitchens, where he has developed a unique style that blends classic techniques with contemporary flavors. He is known for his attention to detail and his ability to create dishes that are both beautiful and delicious."
     }
